@@ -1,4 +1,4 @@
-This is an employee management system created using Java language. It has five functions in the main menu.I have contributed in this project.
+This is an employee management system created using Java language. It has five functions in the main menu.
 
 
 
