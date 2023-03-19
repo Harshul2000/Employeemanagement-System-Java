@@ -6,7 +6,7 @@ This is an employee management system created using Java language. It has five f
 
 
 
-<img src="data/Screenshot (5).png" height="240" >
+<img src="data/Screenshot 2023-03-19 124058.png" height="240" >
 
 
 
